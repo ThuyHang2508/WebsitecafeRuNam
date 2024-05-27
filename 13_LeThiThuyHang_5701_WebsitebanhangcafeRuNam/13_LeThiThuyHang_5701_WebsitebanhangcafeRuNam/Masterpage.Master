@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="_13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.Masterpage" %>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>cafeRuNam</title>
+    <link rel="stylesheet"href="Style.css" />
+        <style>
+       .login-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin: 5px;
+    margin-right: 20px; /* Khoảng cách bên phải giữa nút "Login" và "Giỏ hàng" */
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.Giohang-button {
+    top: 10px;
+    right: 10px;
+    font-weight: bold;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+
+    </style>
+</head>
+
+
+<body>
+    <a href="https://localhost:44364/caferunam">
+    <img class="logo" src="Hinh/logo-1-1.png" alt="Logo" />
+</a>
+
+    <div class="operation-hours" style="display: flex; justify-content: center; align-items: center;">
+        <p style="margin-right: 20px; margin-right: 100px;">Thứ 2 - Thứ 7: 08:00 – 17:00</p>
+        <div class="contact-info" style="display: flex; align-items: center;">
+            <img class="phone-icon" src="Hinh/icondienthoai.png" alt="Icon Điện thoại" style="margin-right: 6px;" />
+            <p class="phone-number" style="margin-right: 10px;">(+084) (272) 3733 703</p>
+            <div class="mail-icon" style="display: flex; align-items: center;">
+                <img src="Hinh/iconmail.png" alt="Icon Email" style="margin-right: 6px;" />
+                <p>contactus@caferunam.com</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="menu">
+        <a class="menu-button" href="Trangchu.aspx">Trang chủ</a>
+        <a class="menu-button" href="Vechungtoi.aspx">Về chúng tôi</a>
+        <a class="menu-button" href="Sanpham.aspx">Sản Phẩm</a>
+        <a class="menu-button" href="Tintuc.aspx">Tin tức</a>
+        <a class="account-button" href="Hethong.aspx">Hệ thống</a>
+       <%-- <a class="cart-button" href="Lienhe.aspx">Liên hệ</a>--%>
+        <a class="login-button" href="TaiKhoan.aspx">Tài khoản</a>
+         <a class="Giohang-button" href="Giohang.aspx">Giỏ hàng</a>
+    </div>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+  <footder>
+    <div class="footer-image">
+        <img src="Hinh/Thongtin.png" alt="Thông tin">
+    </div>
+</footder>
+
+    
+</body>
+
+</html>

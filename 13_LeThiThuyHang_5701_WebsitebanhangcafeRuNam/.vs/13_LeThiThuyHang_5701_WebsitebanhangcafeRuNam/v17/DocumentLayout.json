@@ -1,0 +1,663 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\mastersanpham.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\mastersanpham.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|d:\\13_lethithuyhang_5701_websitebanhangcaferunam\\13_lethithuyhang_5701_websitebanhangcaferunam\\13_lethithuyhang_5701_websitebanhangcaferunam\\13_lethithuyhang_5701_websitebanhangcaferunam\\mastersanpham.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\mastersanpham.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\datmuangay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\datmuangay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\caferunam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\caferunam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\csdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\csdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\hethong.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\hethong.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\site.mobile.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\vechungtoi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\vechungtoi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\tintuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\tintuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\tintuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\tintuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\taikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\taikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\taikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\taikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\masterpage.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\masterpage.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\mastersanpham.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\mastersanpham.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\vechungtoi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\vechungtoi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\thongkedoanhthu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\thongkedoanhthu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\quanly.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\quanly.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\hethong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\hethong.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\datmuangay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\datmuangay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\quanly.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\quanly.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\caferunam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\caferunam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_lethithuyhang_5701_websitebanhangcaferunam\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7E8536A-AE17-41EC-8CE6-3538BACE2558}|13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.csproj|solutionrelative:13_lethithuyhang_5701_websitebanhangcaferunam\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datmuangay.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Datmuangay.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Datmuangay.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Datmuangay.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Datmuangay.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:34:36.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Default.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Default.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Default.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:39:41.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Giohang.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Giohang.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Giohang.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Giohang.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Giohang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:39:40.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Giohang.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Giohang.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Giohang.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Giohang.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Giohang.aspx.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:24:58.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterSanPham.Master",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:51:04.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterSanPham.Master.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:20:30.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Default.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Default.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:35:09.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "caferunam.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\caferunam.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\caferunam.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\caferunam.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\caferunam.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:25:22.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hethong.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Hethong.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Hethong.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Hethong.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Hethong.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:34:32.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Mobile.Master.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Mobile.Master.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Mobile.Master.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Mobile.Master.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Mobile.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:34:27.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Master.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Master.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Master.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:34:23.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CSDL.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\CSDL.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\CSDL.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\CSDL.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\CSDL.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:13:32.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vechungtoi.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Vechungtoi.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Vechungtoi.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Vechungtoi.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Vechungtoi.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:24:52.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Trangchu.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Trangchu.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Trangchu.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Trangchu.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Trangchu.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:24:49.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tintuc.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Tintuc.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Tintuc.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Tintuc.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Tintuc.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:24:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Taikhoan.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Taikhoan.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Taikhoan.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Taikhoan.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Taikhoan.aspx.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwGsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:23:54.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sanpham.aspx.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Sanpham.aspx.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Sanpham.aspx.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Sanpham.aspx.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Sanpham.aspx.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwF8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:22:44.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Masterpage.Master.designer.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master.designer.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master.designer.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master.designer.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:22:34.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Masterpage.Master.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:20:18.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tintuc.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Tintuc.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Tintuc.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Tintuc.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Tintuc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T09:01:55.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Taikhoan.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Taikhoan.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Taikhoan.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Taikhoan.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Taikhoan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T09:02:27.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MasterSanPham.Master.designer.cs",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master.designer.cs",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master.designer.cs",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master.designer.cs",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\MasterSanPham.Master.designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:22:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\ViewSwitcher.ascx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\ViewSwitcher.ascx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-20T09:16:30.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Thongkedoanhthu.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Thongkedoanhthu.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Thongkedoanhthu.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Thongkedoanhthu.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Thongkedoanhthu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T09:01:52.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Trangchu.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Trangchu.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Trangchu.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Trangchu.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Trangchu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T10:31:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Web.config",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Web.config",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Web.config",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T08:38:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Masterpage.Master",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Masterpage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:51:06.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Style.css",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Style.css",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Style.css",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Style.css",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAwwOIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-20T09:03:51.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Mobile.Master",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Mobile.Master",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T09:15:51.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Vechungtoi.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Vechungtoi.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Vechungtoi.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Vechungtoi.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Vechungtoi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T09:03:21.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Hethong.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Hethong.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Hethong.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Hethong.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Hethong.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:39:37.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Datmuangay.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Datmuangay.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Datmuangay.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Datmuangay.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Datmuangay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:57:25.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Quanly.Master",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Quanly.Master",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Quanly.Master",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Quanly.Master",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Quanly.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:50:42.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Master",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Master",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Master",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:50:47.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Sanpham.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Sanpham.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Sanpham.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Sanpham.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Sanpham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T09:00:15.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Quanly.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Quanly.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Quanly.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Quanly.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Quanly.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T09:00:00.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Contact.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Contact.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Contact.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:57:20.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\About.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\About.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\About.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:56:10.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Bundle.config",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Bundle.config",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Bundle.config",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Bundle.config",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\Bundle.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-20T08:39:48.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "caferunam.aspx",
+              "DocumentMoniker": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\caferunam.aspx",
+              "RelativeDocumentMoniker": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\caferunam.aspx",
+              "ToolTip": "D:\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\caferunam.aspx",
+              "RelativeToolTip": "13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam\\caferunam.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-20T08:34:06.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterSanPham.master.cs" Inherits="_13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.MasterSanPham" %>
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>cafeRuNam</title>
+    <link rel="stylesheet"href="Style.css" />
+    <style>
+               .login-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin: 5px;
+    margin-right: 20px; /* Khoảng cách bên phải giữa nút "Login" và "Giỏ hàng" */
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.Giohang-button {
+    top: 10px;
+    right: 10px;
+    font-weight: bold;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+.dmsanpham {
+        text-decoration: none;
+        margin-right: 20px;
+        color: antiquewhite;
+        font-size: 30px;
+        background-color: #43352A;
+        padding: 5px;
+        font-style: italic;
+    }
+
+    .Sanpham {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .item {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .item img {
+        width: 100%;
+        max-width: 250px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .item .product-name,
+    .item .product-price {
+        color: white;
+        font-size: 20px;
+    }
+
+    .item label {
+        display: block;
+    }
+     
+    .order-button, .add-to-cart-button {
+       font-size: 14px
+    }
+    </style>
+    
+</head>
+
+<body>
+    <a href="https://localhost:44340/caferunam">
+    <img class="logo" src="Hinh/logo-1-1.png" alt="Logo" />
+</a>
+
+    <div class="operation-hours" style="display: flex; justify-content: center; align-items: center;">
+        <p style="margin-right: 20px; margin-right: 100px;">Thứ 2 - Thứ 7: 08:00 – 17:00</p>
+        <div class="contact-info" style="display: flex; align-items: center;">
+            <img class="phone-icon" src="Hinh/icondienthoai.png" alt="Icon Điện thoại" style="margin-right: 6px;" />
+            <p class="phone-number" style="margin-right: 10px;">(+084) (272) 3733 703</p>
+            <div class="mail-icon" style="display: flex; align-items: center;">
+                <img src="Hinh/iconmail.png" alt="Icon Email" style="margin-right: 6px;" />
+                <p>contactus@caferunam.com</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="menu">
+        <a class="menu-button" href="Trangchu.aspx">Trang chủ</a>
+        <a class="menu-button" href="Vechungtoi.aspx">Về chúng tôi</a>
+        <a class="menu-button" href="Sanpham.aspx">Sản Phẩm</a>
+        <a class="menu-button" href="Tintuc.aspx">Tin tức</a>
+        <a class="account-button" href="Hethong.aspx">Hệ thống</a>
+     
+           <a class="login-button" href="TaiKhoan.aspx">Tài khoản</a>
+    <a class="Giohang-button" href="Giohang.aspx">Giỏ hàng</a>
+    </div>
+    <div>
+             <table class="auto-style1" align="center">
+                <tr>
+                    <td class="auto-style2">
+                        <asp:DataList ID="DataList1" runat="server" OnItemCommand="DLDanhMuc_ItemCommand" RepeatDirection="Horizontal">
+                            <ItemTemplate>
+                                <div class="div-container">
+                                    <asp:HyperLink ID="hldanhmuc" runat="server" NavigateUrl='<%# "/SanPham.aspx?maloai=" + Eval("MaLoaiSanPham") %>' 
+                                        Text='<%# Eval("TenLoaiSanPham") %>' CommandName="DanhMucClick" CommandArgument='<%# Eval("MaLoaiSanPham") %>' CssClass="dmsanpham" style="text-align: center;"></asp:HyperLink>
+                                </div>
+                            </ItemTemplate>
+                        </asp:DataList>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+  <footder>
+    <div class="footer-image">
+        <img src="Hinh/Thongtin.png" alt="Thông tin">
+    </div>
+</footder>
+
+    
+</body>
+
+</html>
+

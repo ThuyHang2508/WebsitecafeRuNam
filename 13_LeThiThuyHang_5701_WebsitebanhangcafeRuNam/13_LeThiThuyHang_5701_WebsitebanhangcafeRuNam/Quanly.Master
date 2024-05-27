@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Quanly.master.cs" Inherits="_13_LeThiThuyHang_5701_WebsitebanhangcafeRuNam.Quanly" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Quanly.aspx.cs" Inherits="TenDuAn.Quanly" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Trang Quản Lý Cà Phê</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <!-- Giao diện trang quản lý cà phê -->
+            <h1>Quản Lý Cà Phê</h1>
+
+            <!-- Danh sách sản phẩm, đơn đặt hàng, thống kê, v.v. -->
+
+            <asp:GridView ID="gvProducts" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1">
+                <Columns>
+                    <!-- Các cột của GridView -->
+                </Columns>
+            </asp:GridView>
+
+            <!-- Nút thêm, sửa, xóa, v.v. -->
+
+        </div>
+    </form>
+</body>
+</html>
+
